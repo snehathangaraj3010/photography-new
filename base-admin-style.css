@@ -1,0 +1,16 @@
+#icon-wpeden{
+    background: url(../images/logo-small.png) center center no-repeat;
+}
+
+.wpeden-icon{
+    background: url(../images/only-logo-icon-hd.png) left top no-repeat; 
+    margin-top: 13px;
+    margin-left: 10px;
+    margin-right: 0px;
+}
+
+.wpeden-theme-options .thm_heading{
+    font-size: 13pt;
+    color: #222222;
+    padding-left: 32px;
+}
